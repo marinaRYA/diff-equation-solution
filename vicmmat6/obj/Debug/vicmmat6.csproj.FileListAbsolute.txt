@@ -1,0 +1,11 @@
+C:\Users\socia\source\repos\vicmmat6\vicmmat6\bin\Debug\vicmmat6.exe.config
+C:\Users\socia\source\repos\vicmmat6\vicmmat6\bin\Debug\vicmmat6.exe
+C:\Users\socia\source\repos\vicmmat6\vicmmat6\bin\Debug\vicmmat6.pdb
+C:\Users\socia\source\repos\vicmmat6\vicmmat6\obj\Debug\vicmmat6.csproj.AssemblyReference.cache
+C:\Users\socia\source\repos\vicmmat6\vicmmat6\obj\Debug\vicmmat6.csproj.SuggestedBindingRedirects.cache
+C:\Users\socia\source\repos\vicmmat6\vicmmat6\obj\Debug\vicmmat6.Form1.resources
+C:\Users\socia\source\repos\vicmmat6\vicmmat6\obj\Debug\vicmmat6.Properties.Resources.resources
+C:\Users\socia\source\repos\vicmmat6\vicmmat6\obj\Debug\vicmmat6.csproj.GenerateResource.cache
+C:\Users\socia\source\repos\vicmmat6\vicmmat6\obj\Debug\vicmmat6.csproj.CoreCompileInputs.cache
+C:\Users\socia\source\repos\vicmmat6\vicmmat6\obj\Debug\vicmmat6.exe
+C:\Users\socia\source\repos\vicmmat6\vicmmat6\obj\Debug\vicmmat6.pdb
